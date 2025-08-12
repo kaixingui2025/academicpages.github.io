@@ -1,7 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About us"
 author_profile: true
+Welcome to Yanli Research Group.
+Our research focuses on:
+- Peptide drugs development with RiPPs;
+- Advanced diagnostics using single-molecule nanopores;
+- Metabolically engineered host strains produce compounds that are difficult to synthesize chemically.
+We aim to advance knowledge in peptide, nanopore and elucidation of the biosynthetic pathways of druggable compounds and collaborate globally.
 redirect_from: 
   - /about/
   - /about.html
